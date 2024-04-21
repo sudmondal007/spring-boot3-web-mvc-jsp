@@ -12,7 +12,7 @@
         <relativePath />
     </parent>
 
-    <groupId>com.mvmlabs.spring-boot-play</groupId>
+    <groupId>com.home.spring-boot-play</groupId>
     <artifactId>spring-boot3-web-mvc-jsp</artifactId>
     <version>1.0</version>
     <!--<packaging>war</packaging>-->
@@ -21,7 +21,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>com.mvmlabs.springboot.Application</start-class>
         <main.basedir>${basedir}/../..</main.basedir>
         <m2eclipse.wtp.contextRoot>/</m2eclipse.wtp.contextRoot>
     </properties>

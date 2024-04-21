@@ -12,7 +12,7 @@
         <relativePath />
     </parent>
 
-    <groupId>com.home.spring-boot-play</groupId>
+    <groupId>com.home.spring-boot-jsp</groupId>
     <artifactId>spring-boot3-web-mvc-jsp</artifactId>
     <version>1.0</version>
     <!--<packaging>war</packaging>-->

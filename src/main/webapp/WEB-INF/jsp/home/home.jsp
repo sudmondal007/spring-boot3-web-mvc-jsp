@@ -1,3 +1,3 @@
 <div>
-	JSP content
+	Home Page content
 </div>

@@ -1,5 +1,5 @@
 <jsp:include page="../header.jsp"/>
 <div>
-	Hello ${name}
+	Hello Mr/Ms ${name}
 </div>
 <jsp:include page="../footer.jsp"/>
